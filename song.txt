@@ -1,3 +1,6 @@
 Hello World
 Programmers' favourite sentence. 
 What is software testers' favourite sentence?
+
+Why do automation testers prefer dark mode?
+Because light attracts bugs!
