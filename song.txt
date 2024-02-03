@@ -10,3 +10,6 @@ It had too many issues with its emotional test cases!
 
 Why did the software tester cross the road?
 To ensure the application works on both sides!
+
+What's a software tester's favorite song?
+"Another One Bites the Dust" by Queen.
