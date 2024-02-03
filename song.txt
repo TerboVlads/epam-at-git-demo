@@ -7,3 +7,6 @@ Because light attracts bugs!
 
 Why did the automation script go to therapy?
 It had too many issues with its emotional test cases!
+
+Why did the software tester cross the road?
+To ensure the application works on both sides!
