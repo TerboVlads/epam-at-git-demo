@@ -4,3 +4,6 @@ What is software testers' favourite sentence?
 
 Why do automation testers prefer dark mode?
 Because light attracts bugs!
+
+Why did the automation script go to therapy?
+It had too many issues with its emotional test cases!
