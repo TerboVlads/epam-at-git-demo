@@ -13,3 +13,6 @@ To ensure the application works on both sides!
 
 What's a software tester's favorite song?
 "Another One Bites the Dust" by Queen.
+
+Why did the automation tester break up with manual testing?
+It couldn't handle the constant need for attention and validation!
